@@ -13,7 +13,7 @@ Berikut adalah hasil laporan aplikasi yang telah saya buat:
 - Launcher Splash : Aplikasi ini mengeluarkan gambar logo kita.
   ![launchersplash](img/launchersplash.jpg)
 
-- Home Page : Aplikasi ini mengeluarkan text Bagaimana Kabar Anda Hari Ini.
+- Home Page : Aplikasi ini mengeluarkan tampilan menu.
   ![home.page](img/homepage.jpg)
 
 - Hello Toast : Aplikasi ini mengeluarkan text Bagaimana Kabar Anda Hari Ini.
