@@ -26,18 +26,18 @@ Berikut adalah hasil laporan aplikasi yang telah saya buat:
 - Kasus Sianida: Aplikasi ini dapat memberikan informasi berita Kasus Sianida.
   ![kasussianida](img/kasussianida.jpg)
 
-- Two Activity: Aplikasi ini dapat memberikan informasi, seperti berita atau cuaca.
+- Two Activity: Aplikasi ini merupakan berbentuk pesan yang bisa berpindah dari activity satu ke activity kedua.
   ![twoactivity](img/twoactivity_1.jpg)
   ![twoactivity](img/twoactivity_2.jpg)
 
-- Set Alarm: Aplikasi ini dapat memberikan informasi, seperti berita atau cuaca.
+- Set Alarm: Aplikasi ini dapat mengatur alarm secara otomatis.
   ![setalarm](img/setalarm.jpg)
 
-- Show Maps: Aplikasi ini dapat memberikan informasi, seperti berita atau cuaca.
+- Show Maps: Aplikasi ini dapat memberikan tujuan peta yang sudah kita tentukan.
   ![showmaps](img/showmaps_1.jpg)
   ![showmaps](img/showmaps_2.jpg)
 
-- Fragment: Aplikasi ini dapat memberikan informasi, seperti berita atau cuaca.
+- Fragment: Aplikasi ini dapat memberikan informasi, seperti pemasangan wifi, pemasangan cctv, service komputer/laptop.
   ![fragment](img/fragment_1.jpg)
   ![fragment](img/fragment_2.jpg)
   ![fragment](img/fragment_3.jpg)
